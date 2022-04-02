@@ -1,0 +1,17 @@
+PLACES TO VISIT
+Every city offers so many things to do for its residents – from restaurants with delicious food to
+museums and tourist attractions. Finding good places to visit in a neighborhood can influence the area
+we want to move to.
+Problem statement:
+● Arrive with a score for each city that depicts availability of attractions in that city
+● Explore insights
+Example:
+○ Comparison among cities of any major state
+○ Different categories of places available for a given city/state
+Objectives:
+● Obtain shapefiles of multiple categories of places from the source mentioned below.
+● Perform ETL
+● Persist the data in any spatial database.
+● Query data for a given coordinate within the boundary.
+● Present the data story using charts and visualizations using any tool like a simple React
+App/HTML/Tableau.., etc
