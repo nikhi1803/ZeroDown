@@ -9,7 +9,7 @@
            Q1-Part1:https://colab.research.google.com/drive/16AVqdFGOeSq1JYo-IoBXapHP7pVTAxrW?usp=sharing<br/>
            Q1-Part2:https://colab.research.google.com/drive/1DtuRcuJ86Of4AZUBnL69uIYX8eYohEBp?usp=sharing<br/>
            <br/>
-**Step-2** Uploading the file into MongoDB by converting the csv file into JSON <br/>
+**Step-2** Uploading the file into MongoDB by converting the csv file into JSON <br/><br/>
 **Step-3** Querying <br/>
            (Link for Step-2)<br/>
            Q1-Part1:https://colab.research.google.com/drive/14cNchYM0qlzOhdpf84GqA4s7Zfd_L7Br?usp=sharing<br/>
