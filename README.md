@@ -6,7 +6,7 @@
 
 ### Step-1: Data Preprocessing
            (Link for Step-1)
-           **Q1-Part1:** https://colab.research.google.com/drive/16AVqdFGOeSq1JYo-IoBXapHP7pVTAxrW?usp=sharing
+           Q1-Part1: [r2h]: https://colab.research.google.com/drive/16AVqdFGOeSq1JYo-IoBXapHP7pVTAxrW?usp=sharing
            **Q1-Part2:** https://colab.research.google.com/drive/1DtuRcuJ86Of4AZUBnL69uIYX8eYohEBp?usp=sharing
            
 ### Step-2: Uploading the file into MongoDB by converting the csv file into JSON 
