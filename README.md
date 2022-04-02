@@ -4,12 +4,12 @@
 ## Q2-Natural Hazards - Hurricanes
 ## Q3-US Housing Market Dynamics
 <br/>
-**Step-1:** Data Preprocessing<br/>
+__Step-1:__ Data Preprocessing<br/>
            (Link for Step-1)<br/>
            Q1-Part1:https://colab.research.google.com/drive/16AVqdFGOeSq1JYo-IoBXapHP7pVTAxrW?usp=sharing<br/>
            Q1-Part2:https://colab.research.google.com/drive/1DtuRcuJ86Of4AZUBnL69uIYX8eYohEBp?usp=sharing<br/>
            <br/>
-**Step-2:** Uploading the file into MongoDB by converting the csv file into JSON <br/>
+__Step-2:__ Uploading the file into MongoDB by converting the csv file into JSON <br/>
 **Step-3:** Querying <br/>
            (Link for Step-2)<br/>
            Q1-Part1:https://colab.research.google.com/drive/14cNchYM0qlzOhdpf84GqA4s7Zfd_L7Br?usp=sharing<br/>
