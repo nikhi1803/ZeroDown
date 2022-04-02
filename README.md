@@ -3,7 +3,7 @@
 ## Q1-Places to Vsit
 ## Q2-Natural Hazards - Hurricanes
 ## Q3-US Housing Market Dynamics
-<br/>
+
 **Step-1** Data Preprocessing<br/>
            (Link for Step-1)<br/>
            Q1-Part1:https://colab.research.google.com/drive/16AVqdFGOeSq1JYo-IoBXapHP7pVTAxrW?usp=sharing<br/>
