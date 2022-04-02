@@ -1,0 +1,18 @@
+NATURAL HAZARDS - HURRICANES
+Climate change is adding to the coast and threat of hurricanes. Stronger hurricanes pose a significant
+risk to public health and human lives. Communities can improve their resilience to the impacts of
+hurricanes by designing structures to be resilient to high winds and flying debris. Encouraging
+residents in areas that have had historically low hurricane risk to purchase flood insurance.
+Problem statement:
+● Analyze the impact of hurricanes in the US historically.
+● Explore insights
+Example:
+○ Categorizing hurricanes based on storm speed
+○ Time of occurrence of hurricanes in a state ( preferably Florida/ any state from eastern
+coast )
+Objectives:
+● Obtain shapefile from the source mentioned below.
+● Perform ETL
+● Compute summaries and stats using GeoSpatial Queries.
+● Present the data story using charts and visualizations using any tool like a simple React
+App/HTML/Tableau.., etc
