@@ -21,3 +21,12 @@
            Q1-Part1:https://charts.mongodb.com/charts-project-0-ovknx/public/dashboards/62481592-d88b-4615-8cba-cfaffe7d5b16<br/>
            Q1-Part2:https://charts.mongodb.com/charts-project-0-ovknx/public/dashboards/f7931f7a-6497-48e0-bdb0-11e7890f4f48<br/>
            Q2:https://charts.mongodb.com/charts-project-0-ovknx/public/dashboards/934bf50f-61c3-4f74-b52a-7868d3d95a6e<br/>
+           
+## How to run the files
+**1** Download the csv files present in each questions folder and download the .ipynb files.<br/>
+**2** Open the .ipynb files using google colab.<br/>
+**3** Upload the csv file to the corresponding question.<br/>
+**4** Run the program.<br/>
+**5** For the visualisation click on the links provided in notepad that is present inside each question's folder.
+           
+           
