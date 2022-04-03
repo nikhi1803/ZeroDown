@@ -1,6 +1,6 @@
 # ZeroDown
 -------
-## Q1-Places to Vsit
+## Q1-Places to Visit
 ## Q2-Natural Hazards - Hurricanes
 ## Q3-US Housing Market Dynamics
 
